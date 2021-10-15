@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<COVID_AE_AMIA>
+<TEXT><![CDATA[Severe body aches 24 hours after the vaccine was administered.  These aches lasted throughout the day.  I took three doses of 800mg Ibuprofen and tow doses of 1000mg Tylenol to get through the day.  They were gone by the next morning (48 hours after administration) and no additional pain medicine was needed.]]></TEXT>
+<TAGS>
+<Pain spans="7~17" text="body aches" id="P0" certainty="Positive"/>
+<Severity spans="0~6" text="severe" id="S0" type="NA"/>
+<AE_lk id="A0" PainID="P0" PainText="body aches" Pain_SeverityID="S0" Pain_SeverityText="severe"/>
+</TAGS>
+</COVID_AE_AMIA>

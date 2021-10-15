@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<COVID_AE_AMIA>
+<TEXT><![CDATA[Sciatica nerve pain throbbing constantly from left butt down left leg to my calf.  Started February 16th, strong pain (just bearable).  Starting February 20th, pain slightly subsided and just painful during walking.  Starting February 22nd (today), slightly less painful. I am hoping this is not permanent...]]></TEXT>
+<TAGS>
+<Pain spans="113~117" text="pain" id="P0" certainty="Positive"/>
+<Severity spans="106~112" text="strong" id="S0" type="NA"/>
+<AE_lk id="A0" PainID="P0" PainText="pain" Pain_SeverityID="S0" Pain_SeverityText="strong"/>
+</TAGS>
+</COVID_AE_AMIA>
