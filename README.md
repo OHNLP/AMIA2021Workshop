@@ -10,7 +10,7 @@ The slides used in our workshop and pre-recorded videos could be downloaded from
 
 [Backbone](https://github.com/OHNLP/Backbone) aims to simplify scalable ETL (Extract-Transform-Load) processes by transforming such operations into a sequence of simple user-accessible JSON configurations, with a particular focus on Healthcare NLP-related tasks.
 
-The backbone input database URL 
+Backbone input database URL: [URL](https://github.com/OHNLP/Backbone) can be used as a sample input data source during our workshop session.
 
 ## MedTagger
 
